@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+
+p{
+    padding-left: 10px;
+}
+
+.author-names{
+    display: flex;
+}
+
+.author-names > h4{
+    margin-left: 10px;
+}
